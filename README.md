@@ -1,16 +1,4 @@
-# quiz_app_project
+This is a can be improved quiz app.. 
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![quizAppUI](https://user-images.githubusercontent.com/75016140/180847174-65bef8be-4a15-44ec-942a-a4ab16dd8204.png)
